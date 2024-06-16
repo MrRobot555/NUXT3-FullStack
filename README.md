@@ -2,6 +2,8 @@
 
 ## Finance Tracker Project
 
+.env file is provided - connects to real Supabase back-end
+
 ## Setup
 
 You can use the olaszky@gmail.com account at login, to see data

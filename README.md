@@ -1,4 +1,4 @@
-# Nuxt 3, TailwindCSS, NuxtUI, Supabase (postgres) Full-Stack Project
+# Nuxt 3, TailwindCSS, NuxtUI, Supabase (Postgres, Storage, real Auth) Full-Stack Project
 
 ## Finance Tracker Project
 
